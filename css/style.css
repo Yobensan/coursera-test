@@ -5,9 +5,6 @@ h1 {
   font-family: "Courier New", Courier, monospace;
   text-align: center;
 }
-div.border {
-  /* padding: 5px; */
-}
 div p.text {
   margin-top: 50px;
 }
